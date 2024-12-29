@@ -4,7 +4,8 @@
 const Home=()=>{
     return(
         <>
-        <p>Welcome to my website</p>
+        <h1>Home</h1>
+        <p>Welcome to my website!</p>
         </>
     )
 }
